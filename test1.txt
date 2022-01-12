@@ -6,3 +6,4 @@ I am very talented girl.
 but i am also lazy girl.
 I have started my full stack web developer job in 2021.
 I will defenitly go to america in 2023.
+logo alignment is centered.
